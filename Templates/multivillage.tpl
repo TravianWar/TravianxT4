@@ -1,11 +1,10 @@
-
 <?php 
 ////Fixed TravianWars/////
 if(count($session->villages) > 1) { 
 ?> 
  <div id="villageList" class="listing">
     <div class="head">
-    <a href="dorf3.php" accesskey="9">Köyler:</a>
+    <a href="dorf3.php" accesskey="9">Villages:</a>
 </div>
 <div class="list">
 <ul> 
